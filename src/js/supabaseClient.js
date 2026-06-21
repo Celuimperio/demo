@@ -1,0 +1,2 @@
+const { createClient } = supabase;
+const _s = createClient('https://crsveykcwbibweeijamk.supabase.co', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNyc3ZleWtjd2JpYndlZWlqYW1rIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzk5MjQ2ODgsImV4cCI6MjA5NTUwMDY4OH0.ERje5CE5ddM8Bv35BIOwem53HevnDRyJjIzKtlFm-Vc');
